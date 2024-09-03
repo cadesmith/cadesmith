@@ -1,6 +1,6 @@
-### Cade Smith
+### Hi, I'm Cade
 
-Hi, I'm Cade. I'm a recent CS grad currently looking for SWE positions at mid to enterprise level companies. Here you'll find personal projects as well as my contributions. 
+I'm a recent CS grad currently looking for SWE positions at mid to enterprise level companies. Here you'll find personal projects as well as my contributions. 
 
 ### Currently working on:
 
