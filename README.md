@@ -7,5 +7,5 @@ I'm a recent CS grad currently looking for SWE positions at mid to enterprise le
 - [Personal Website Redesign](https://github.com/cadesmith/PortfolioSite) - Complete overhaul of my personal website
 - [Marin Trail Project](https://github.com/MarinTrailProject) - App that allows users to track trail progress in Marin County
 - [Spotify App Project](https://github.com/cadesmith/SpotifyAppProject) - Applet that allows users to view info about friends, name TBD
-- [Dogs8](https://github.com/cadesmith/dogs8) - iOS application that allows users to track whether pets have been fed that day
+- [Quiddler Online](https://github.com/cadesmith/QuiddlerOnline) - An online version of the word card game Quiddler
 - Photography Website (Private) - Website to display my photography written in HTML, CSS, & Java
